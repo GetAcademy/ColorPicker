@@ -1,0 +1,2 @@
+1) Lage en color picker!
+Trykker på en knapp og endrer bakgrunnsfarge på nettside
